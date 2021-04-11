@@ -11,5 +11,6 @@ public class FirstTest {
     @Test
     public void testCase2(){
         System.out.println("Hello World");
+        System.out.println("Hello Alphaleaf!");
     }
 }
