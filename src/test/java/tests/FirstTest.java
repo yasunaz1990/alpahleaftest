@@ -17,5 +17,8 @@ public class FirstTest {
     @Test
     public void testCase3(){
         System.out.println("Hello Automation Something");
+        System.out.println("We have learned following tow method");
+        System.out.println("str.indexOf(str)");
+        System.out.println("str.lastIndexOf(str)");
     }
 }
