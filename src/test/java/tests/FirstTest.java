@@ -13,4 +13,11 @@ public class FirstTest {
         System.out.println("Hello World");
         System.out.println("Hello Alphaleaf!");
     }
+
+    @Test
+    public void testCase3() {
+        System.out.println("We have learned following tow method");
+        System.out.println("str.indexOf(str)");
+        System.out.println("str.lastIndexOf(str)");
+    }
 }
