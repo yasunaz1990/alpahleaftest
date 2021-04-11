@@ -13,4 +13,9 @@ public class FirstTest {
         System.out.println("Hello World");
         System.out.println("Hello Alphaleaf!");
     }
+
+    @Test
+    public void testCase3(){
+        System.out.println("Hello Automation Something");
+    }
 }
