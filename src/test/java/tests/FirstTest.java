@@ -21,4 +21,9 @@ public class FirstTest {
         System.out.println("str.indexOf(str)");
         System.out.println("str.lastIndexOf(str)");
     }
+
+    @Test
+    public void testCase4() {
+        System.out.println("This is nathan_develop branch");
+    }
 }
