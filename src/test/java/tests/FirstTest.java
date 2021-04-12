@@ -26,4 +26,10 @@ public class FirstTest {
     public void testCase4() {
         System.out.println("This is nathan_develop branch");
     }
+    @Test
+    public void testCase5(){
+        System.out.println("git branch");
+        System.out.println("git checkout buket_develop");
+        System.out.println("git branch");
+    }
 }
